@@ -12,8 +12,7 @@ Como ingenieros viales, frecuentemente necesitamos extraer datos cuantitativos d
 **Graph_Extractor** es una solución desarrollada en Python que automatiza este proceso crítico, proporcionando precisión y eficiencia en la digitalización de datos gráficos.
 
 ## 🖥️ Interfaz de Usuario
-
-![Interfaz Principal](screenshots/main_interface.png)
+![Interfaz Principal](https://github.com/germancruzram/Graph_Extractor/blob/main/Interfaz.png)
 
 ## ✨ Características Principales
 
