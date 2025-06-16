@@ -71,7 +71,7 @@ graph LR
 
 ## 👨‍💼 Autor
 
-**[GERMAN AHMED CRUZ RAMIREZ]** - *Ingeniero Civil especializado en Pavimentos*
+**[GERMAN AHMED CRUZ RAMIREZ]** - *Ingeniero Civil especializado en Gestión de Pavimentos*
 
 - 📧 Email: germancruzram@gmail.com
 - 💼 LinkedIn: ([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/german-cruz-ram-in24/)
