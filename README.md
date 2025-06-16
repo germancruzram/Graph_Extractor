@@ -77,4 +77,4 @@ graph LR
 - 💼 LinkedIn: ([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/german-cruz-ram-in24/)
 - 🐙 GitHub: ([https://github.com/tu-usuario](https://github.com/germancruzram)
 
-Decidado a la memoria de Denis Ramírez Aviles (2025)
+Dedicado a la memoria de Denis Ramírez Aviles (2025)
