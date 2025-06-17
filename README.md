@@ -1,5 +1,5 @@
 # Graph_Extractor
-Descargar la aplicación: https://github.com/germancruzram/Graph_Extractor/releases/download/GRAPH_EXTRACTOR/Graph.Extractor.rar
+Descargar la aplicación: https://github.com/germancruzram/Graph_Extractor/releases/download/GRAPH_EXTRACTOR_1.10/Graph.Extractor.1.10.zip
 
 ## 🎯 Descripción del Proyecto
 
